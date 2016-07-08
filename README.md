@@ -1,7 +1,7 @@
 # bbcXMLParser
 Converts BBC XML RSS feeds to JSON.
 
-##### Example with jQuery AJAX, pass the param 'returnItems' to return as many items as you want.
+##### Example with jQuery AJAX, pass the param 'returnItems' to return as many items as you need
 
 	$.ajax({
 		url: 'parser.php',
